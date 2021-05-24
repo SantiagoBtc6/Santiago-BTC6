@@ -1,12 +1,12 @@
-< html >
-< cabeza > 
-</ cabeza >
-< cuerpo >
-< div class = "contenedor" > 
-    < div class = "row text-center" > 
-        < div class = "col-sm-6 col-sm-offset-3" > 
-        < Br > < br > < h2 estilo = "color: # 0fad00" > éxito </ h2 >  
-        </ div >
-    </ div >
-</ cuerpo >
-</ html >
+<html>
+<head> 
+</head>
+<body>
+<div class="container">
+    <div class="row text-center">
+        <div class="col-sm-6 col-sm-offset-3">
+        <br><br> <h2 style="color:#0fad00">Success</h2>
+        </div>
+    </div>
+</body>
+</html>
